@@ -79,7 +79,7 @@ You may include **one screenshot** or reference image only if it does not contai
 
 > Do not include passwords, private messages, account numbers, grades, addresses, personal information, or other confidential content.
 
-![Disclaimer: I thought of this idea even before I saw this Facebook post that does sort of the same thing as my proposed application. One difference is that it does lack a detailed map of the Mugna interior.](csc181/activities/mugna.png)
+![Disclaimer: I thought of this idea even before I saw this Facebook post that does sort of the same thing as my proposed application. One difference is that it does lack a detailed map of the Mugna interior.](mugna.png)
 
 **External sources used, if any:**  
 https://www.facebook.com/share/v/1HqnMVribo/
@@ -91,7 +91,7 @@ https://betteriligancity.org/travel/mugna
 
 Select **one** option below and complete the applicable details.
 
-- [/] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
+- [x] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
 
 - [ ] **AI tools used.** I used the following AI tool(s): [Write tool name(s), e.g., ChatGPT, Gemini, Copilot].
 
