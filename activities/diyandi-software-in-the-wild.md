@@ -79,7 +79,8 @@ You may include **one screenshot** or reference image only if it does not contai
 
 > Do not include passwords, private messages, account numbers, grades, addresses, personal information, or other confidential content.
 
-![Disclaimer: I thought of this idea even before I saw this Facebook post that does sort of the same thing as my proposed application. One difference is that it does lack a detailed map of the Mugna interior.](mugna.png)
+![Fb Screenshot of Mugna App](mugna.png)
+*Disclaimer: I thought of this idea even before I saw this Facebook post that does sort of the same thing as my proposed application. One difference is that it does lack a detailed map of the Mugna interior.*
 
 **External sources used, if any:**  
 https://www.facebook.com/share/v/1HqnMVribo/
