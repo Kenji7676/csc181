@@ -5,22 +5,12 @@ Team Information
 - Working arrangement: Personal computers
 - Coordination method: Online Google Meet call, shared document
 
-
-Member
-GitHub username
-Personal CSC181 repository
-Kate Mikaela R. Dagohoy
-mxikai
-https://github.com/mxikai/csc181
-Joash S. Casiño
-joashcasino-sketch
-https://github.com/joashcasino-sketch/csc181
-Kythe Florence P. Fontilla
-kythe-fontilla
-https://github.com/kythe-fontilla/CSC181
-Kenneth Jerome C. Gloria
-Kenji7676
-https://github.com/Kenji7676/csc181
+| Member | GitHub username | Personal CSC181 repository |
+|---|---|---|
+| Kate Mikaela R. Dagohoy | mxikai | https://github.com/mxikai/csc181 |
+| Joash S. Casiño | joashcasino-sketch | https://github.com/joashcasino-sketch/csc181 |
+| Kythe Florence P. Fontilla | kythe-fontilla | https://github.com/kythe-fontilla/CSC181 |
+| Kenneth Jerome C. Gloria | Kenji7676 | https://github.com/Kenji7676/csc181 |
 
 
 ## 1. Brainstorming Record 
