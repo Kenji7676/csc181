@@ -206,7 +206,7 @@ upload the same Markdown file to their personal CSC181 repository.
 | Kate Mikaela Dagohoy | Yes |
 | Kenneth Jerome Gloria | Yes |
 
-Submission Checklist
+## Submission Checklist
 - [x] Each member contributed at least two problem ideas.
 - [x] Three candidate problems were compared.
 - [x] The selection rationale is included.
