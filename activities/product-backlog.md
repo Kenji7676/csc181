@@ -638,8 +638,6 @@ Every story must meet all of these conditions before it counts as done.
 
 | Story | Problem or goal it addresses | Source finding(s) | Test cases (Week 9) |
 |---|---|---|---|
-| Story | Problem or goal it addresses | Source finding(s) | Test cases (Week 9) |
-|---|---|---|---|
 | US-16 Sign in with a university email | Only campus members can post, search, and claim items, and only SID accounts can open the logging and approval pages. | Team decision (proposal, in-scope capability 1); NFR-04, NFR-05 | [Leave blank for now] |
 | US-09 Log a surrendered item | SID's digital record holds the same details as its paper logbook, and a logged item becomes claimable. | F8, F9 | [Leave blank for now] |
 | US-06 See status and where to claim | Owners see whether their item was found, who holds it, and where to claim it, without chasing the finder. | F2, F3 | [Leave blank for now] |
