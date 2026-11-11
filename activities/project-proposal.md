@@ -49,7 +49,7 @@ We chose the Lost & Found App because it addresses a problem students and staff 
 
 ### Working project title
 
-MSU-IIT Lost and Found (MILF)
+MyFinder
 
 ### Problem statement
 
@@ -57,7 +57,7 @@ Whenever MSU-IIT constituents lose valuable items, they often resort to posting 
 
 ### Proposed solution
 
-MSU-IIT Lost & Found (MILF) is a centralized web app where students and staff can post lost or found items, log where an item was last seen, share contact details, and track whether it has been claimed. Instead of relying on scattered chat groups or dropping items off at different campus offices, users get one searchable dashboard with a marketplace-style layout that makes browsing items quick and familiar. We plan to run it as a standalone demo server for now, but it is designed so it can later be integrated into the My.IIT portal for seamless access. By making every item’s status, location, and point of contact easy to find, MILF takes the guesswork out of recovering lost belongings across campus.
+MyFinder is a centralized web app where students and staff can post lost or found items, log where an item was last seen, share contact details, and track whether it has been claimed. Instead of relying on scattered chat groups or dropping items off at different campus offices, users get one searchable dashboard with a marketplace-style layout that makes browsing items quick and familiar. We plan to run it as a standalone demo server for now, but it is designed so it can later be integrated into the My.IIT portal for seamless access. By making every item’s status, location, and point of contact easy to find, MyFinder takes the guesswork out of recovering lost belongings across campus.
 
 ## 4. Stakeholder List
 
